@@ -1,0 +1,9 @@
+1.第一个Python程序
+    hello.py
+2. python 2.0 与3.0
+    Python是过去的版本，不再进行使用，目前大多数的还是使用3.0 。Python3.0并不能向下兼容。
+3. Python 的其他解释器
+    CPython: 官方版本的解释器
+    Jython:  用java开发的解释器
+    PyPy :   用python开发的解释器
+4.  python
